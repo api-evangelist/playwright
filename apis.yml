@@ -1,0 +1,47 @@
+aid: playwright
+name: Playwright
+description: >-
+  Playwright is an open-source framework for web automation and browser testing.
+  It enables reliable end-to-end testing for modern web apps, supporting
+  Chromium, Firefox, and WebKit browsers.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Browser Testing
+  - Test Automation
+  - Web Automation
+  - Open Source
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/playwright/refs/heads/main/apis.yml
+created: '2026-03-16'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis:
+  - aid: playwright:playwright
+    name: Playwright
+    description: >-
+      Open-source framework for reliable end-to-end browser testing and web
+      automation supporting Chromium, Firefox, and WebKit.
+    humanURL: https://playwright.dev/
+    tags:
+      - Browser Testing
+      - Test Automation
+    properties:
+      - type: Documentation
+        url: https://playwright.dev/docs/intro
+      - type: Getting Started
+        url: https://playwright.dev/docs/intro
+      - type: Reference
+        url: https://playwright.dev/docs/api/class-playwright
+common:
+  - type: Website
+    url: https://playwright.dev/
+  - type: Documentation
+    url: https://playwright.dev/docs/
+  - type: GitHub Organization
+    url: https://github.com/microsoft/playwright
+  - type: Community
+    url: https://aka.ms/playwright/discord
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
