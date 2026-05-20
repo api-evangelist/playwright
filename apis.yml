@@ -41,6 +41,8 @@ apis:
       - type: GitHub
         url: https://github.com/microsoft/playwright
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/playwrightweb
   - type: Website
     url: https://playwright.dev/
   - type: Documentation
