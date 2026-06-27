@@ -51,7 +51,7 @@ common:
     url: https://github.com/microsoft/playwright
   - type: Community
     url: https://aka.ms/playwright/discord
-  - type: Releases
+  - type: ReleaseNotes
     url: https://github.com/microsoft/playwright/releases
   - type: Issues
     url: https://github.com/microsoft/playwright/issues
